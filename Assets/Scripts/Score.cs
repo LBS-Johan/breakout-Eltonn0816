@@ -18,7 +18,7 @@ public class Score : MonoBehaviour
     void Update()
     {
         scoreUI.text = points.ToString();
-        if (points > 8900)
+        if (points > 13600)
         {
             SceneManager.LoadScene(2);
         }
