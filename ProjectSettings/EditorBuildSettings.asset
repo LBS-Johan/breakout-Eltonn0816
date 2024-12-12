@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Breakout scene.unity
+    guid: 09352ff90fc62bf429f410ead8d2a785
+  - enabled: 1
+    path: Assets/Scenes/Losing screen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Winning screen.unity
+    guid: 21612dbd64be9c648af7d581dd8283dd
   m_configObjects: {}
